@@ -8,7 +8,4 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-
-    //TODO: apply plugin: 'kotlin-android-extensions' is deprecated and i remove it need
-    //change
 }
